@@ -1,0 +1,9 @@
+#### Cach Add them loai board khac nhu Esp2866, Seeed Studio, hoac Adafruit boards 
+	- https://www.devdungeon.com/content/arduino-cli-tutorial
+
+
+	arduino-cli compile --fqbn arduino:avr:uno exampleProject\MyFirstKxnSketch
+	arduino-cli compile --fqbn arduino:avr:uno C:\Users\Administrator\Documents\Arduino\MyFirstKxnSketch
+
+	arduino-cli upload --port COM9 --fqbn arduino:avr:uno exampleProject\MyFirstKxnSketch
+
